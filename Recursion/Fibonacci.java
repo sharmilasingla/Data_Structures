@@ -6,7 +6,7 @@ public class Fibonacci {
 		if(n<=1)
 			return n;
 		//print(n-1)+print(n-2);
-		return print(n-1)+print(n-2);
+		return print(n-1)+print(n-3);
 	}
 
 	public static void main(String[] args) {
